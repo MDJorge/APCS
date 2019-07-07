@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rainbow2()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=radius
+comment2.target=int\ centerX(int)
+comment3.params=radius
+comment3.target=int\ centerY(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
