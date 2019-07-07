@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InvalidDamageException()
+comment1.params=neg
+comment1.target=InvalidDamageException(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
