@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=program\ game\ board
+comment0.target=ComputerPlayer(Chomp,\ ChompGame,\ BoardPanel)
+comment1.params=strategy
+comment1.target=void\ setStrategy(Strategy)
+comment2.params=
+comment2.target=java.lang.String\ getPrompt()
+comment3.params=
+comment3.target=java.lang.String\ getWinMessage()
+comment4.params=
+comment4.target=void\ makeMove()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=CharMatrix(int,\ int)
+comment1.params=rows\ cols\ fill
+comment1.target=CharMatrix(int,\ int,\ char)
+comment10.params=col
+comment10.target=int\ countInCol(int)
+comment2.params=
+comment2.target=int\ numRows()
+comment3.params=
+comment3.target=int\ numCols()
+comment4.params=row\ col
+comment4.target=char\ charAt(int,\ int)
+comment5.params=row\ col\ ch
+comment5.target=void\ setCharAt(int,\ int,\ char)
+comment6.params=row\ col
+comment6.target=boolean\ isEmpty(int,\ int)
+comment7.params=row0\ col0\ row1\ col1\ fill
+comment7.target=void\ fillRect(int,\ int,\ int,\ int,\ char)
+comment8.params=row0\ col0\ row1\ col1
+comment8.target=void\ clearRect(int,\ int,\ int,\ int)
+comment9.params=row
+comment9.target=int\ countInRow(int)
+numComments=11
