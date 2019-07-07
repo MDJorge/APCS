@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SortedWordList()
+comment1.params=i
+comment1.target=SortedWordList(int)
+comment2.params=word
+comment2.target=boolean\ contains(java.lang.String)
+comment3.params=word
+comment3.target=int\ indexOf(java.lang.String)
+comment4.params=i\ word
+comment4.target=java.lang.String\ set(int,\ java.lang.String)
+comment5.params=i\ word
+comment5.target=void\ add(int,\ java.lang.String)
+comment6.params=word
+comment6.target=boolean\ add(java.lang.String)
+comment7.params=additionalWords
+comment7.target=void\ merge(SortedWordList)
+numComments=8
