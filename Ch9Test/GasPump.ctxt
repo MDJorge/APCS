@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gasPricePerGallon
+comment0.target=GasPump(double)
+comment1.params=
+comment1.target=double\ getSales()
+comment2.params=gallons
+comment2.target=double\ getCost(double)
+comment3.params=gallons
+comment3.target=double\ pump(double)
+numComments=4

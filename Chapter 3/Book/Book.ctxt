@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Book(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Book\r\n
+comment1.params=
+comment1.target=void\ nextPage()
+comment2.params=
+comment2.target=int\ currentPage()
+comment3.params=
+comment3.target=int\ numPages()
+numComments=4
