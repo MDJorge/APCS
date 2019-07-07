@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piecewise()
+comment1.params=evt
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ web(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ click(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=boolean\ checkfields()
+comment6.params=
+comment6.target=void\ generateMenu()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ run()
+numComments=9
