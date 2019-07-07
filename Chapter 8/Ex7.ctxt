@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isPerfectSquare(int)
+comment1.params=n
+comment1.target=boolean\ isPerfectSquare2(int)
+comment2.params=n
+comment2.target=boolean\ isPerfectSquare3(int)
+comment3.params=n
+comment3.target=boolean\ isPerfectSquare4(int)
+numComments=4

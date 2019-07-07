@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=hours\ rate
+comment0.target=double\ totalWages(double,\ double)
+comment1.params=x\ y
+comment1.target=boolean\ XOR1(boolean,\ boolean)
+comment2.params=x\ y
+comment2.target=boolean\ XOR2(boolean,\ boolean)
+comment3.params=x\ y
+comment3.target=boolean\ XOR3(boolean,\ boolean)
+comment4.params=a\ b
+comment4.target=boolean\ boolTest(boolean,\ boolean)
+comment5.params=a\ b
+comment5.target=boolean\ boolTest2(boolean,\ boolean)
+comment6.params=a\ b\ c
+comment6.target=boolean\ geometricSequenceTest(int,\ int,\ int)
+comment6.text=Ex\ 8\:\ \ Write\ a\ Boolean\ expression\ that\ evaluates\ to\ true\ if\ and\ only\ if\ the\ values\r\nof\ three\ integer\ variables\ a,\ b,\ and\ c\ form\ a\ geometric\ sequence
+numComments=7

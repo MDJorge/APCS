@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ fibonacci(int)
+comment1.params=n
+comment1.target=int\ sumUpTo(int)
+comment1.text=\r\n\ Returns\ the\ sum\ of\ all\ integers\ from\ 1\ to\ n,\ if\ n\ >\=\ 1,\r\n\ and\ 0\ otherwise.\r\n
+comment2.params=n
+comment2.target=long\ factorial(int)
+comment2.text=\r\n\ \ Returns\ 1\ *\ 2\ *\ ...\ *\ n,\ if\ n\ >\=\ 1;\ otherwise\ returns\ 1\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=
+numComments=4

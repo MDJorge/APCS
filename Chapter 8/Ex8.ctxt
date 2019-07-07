@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ sumDigits(int)
+comment1.params=n
+comment1.target=int\ sumDigitsCondensed(int)
+comment2.params=n
+comment2.target=boolean\ isDivisibleByThree(int)
+numComments=3
